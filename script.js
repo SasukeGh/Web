@@ -1,3 +1,4 @@
+const name= prompt("Whats your name")
 document.addEventListener('DOMContentLoaded', () => {
 
     // Smooth scrolling for navigation
