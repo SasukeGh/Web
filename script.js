@@ -1,4 +1,3 @@
-const name= prompt("Whats your name")
 document.addEventListener('DOMContentLoaded', () => {
 
     // Smooth scrolling for navigation
@@ -61,3 +60,11 @@ document.addEventListener('DOMContentLoaded', () => {
     revealOnScroll(); // Initial call
 
 });
+
+function wa(){
+    window.location.href="https://wa.me/233257789272/?text=Hello+Mr+Kwabena+Im+Here+for+business"
+};
+
+function em(){
+    window.location.href="mailto:doktakobby@gmail.com?subect=Naxtech%20inquiries&body=Hello,%20Ihave%20some%20bussiness%20inquiries"
+};
