@@ -43,6 +43,20 @@ section {
     border-radius: 10px;
 }
 
+button {
+    background-color: red; /* Background color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Padding inside the button */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Change cursor to pointer */
+    border-radius: 5px; /* Rounded corners */
+}
+
+button:hover {
+    background-color: darkred; /* Darker red on hover */
+}
+
 footer {
     background-color: #333;
     color: white;
